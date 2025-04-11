@@ -45,9 +45,6 @@ Spawns specified objects on top of the terrain at random points with a vertical 
 5. Configure the public fields in the Inspector to suit your scene.
 6. Press Play and watch your terrain generate dynamically!
 
-## 📷 Preview (Optional)
-_Add a GIF or screenshot of the system in action here._
-
 ## 📌 Requirements
 
 - Unity 2020.3 or later
